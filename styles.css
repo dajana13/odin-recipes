@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(24, 26, 27);
+    color: rgb(185, 179, 170);
+    padding: 1rem 1rem 0;
+}
+
+a {
+    color: rgb(185, 179, 170);
+}
+
+a:hover {
+    color: lightsteelblue;
+    font-size: 1.5rem;
+}
+
+.menu>li {
+    padding-bottom: 10px;
+}
+
+.recipe-title {
+    text-align: center;
+    color: rgb(224, 219, 210);
+}
+p {
+    font-style: italic;
+}
+
+h2 {
+    color: rgb(224, 219, 210);
+}
+
+h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+
+}
+
+ol>li {
+    font-weight: bold;
+}
+
+.ingredients>li {
+    padding-bottom: 1em;
+}
