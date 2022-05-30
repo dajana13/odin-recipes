@@ -17,7 +17,6 @@ a {
 .menu>li>a:hover {
     color: lightsteelblue;
     text-decoration: underline;
-    font-size: 1.1rem;
 }
 
 .menu>li {
